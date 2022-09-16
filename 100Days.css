@@ -45,7 +45,7 @@ button{
 hr{
 	box-shadow:  0 0 5px 0px rgba(0, 0, 0, 0.1);
 }
-@media screen and (max-width:510px){
+@media screen and (max-width:580px){
 	body{
 	background-image: linear-gradient(to bottom,#ffcc99,#ff9999,#cc6699,#996699,#585858);
 	height: 100vh;
